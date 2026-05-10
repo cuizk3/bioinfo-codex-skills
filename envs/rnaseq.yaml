@@ -1,0 +1,22 @@
+name: rnaseq
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - fastp
+  - fastqc
+  - multiqc
+  - hisat2
+  - samtools
+  - subread
+  - python=3.11
+  - pandas
+  - r-base
+  - r-tidyverse
+  - r-ggrepel
+  - r-pheatmap
+  - bioconductor-deseq2
+  - bioconductor-tximport
+  - bioconductor-clusterprofiler
+  - bioconductor-org.hs.eg.db
