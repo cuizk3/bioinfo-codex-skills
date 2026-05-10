@@ -1,0 +1,5 @@
+sample,group,fastq1,fastq2,batch
+F1,Female,data/raw/F1_R1.fastq.gz,data/raw/F1_R2.fastq.gz,batch1
+F2,Female,data/raw/F2_R1.fastq.gz,data/raw/F2_R2.fastq.gz,batch1
+M1,Male,data/raw/M1_R1.fastq.gz,data/raw/M1_R2.fastq.gz,batch1
+M2,Male,data/raw/M2_R1.fastq.gz,data/raw/M2_R2.fastq.gz,batch1
